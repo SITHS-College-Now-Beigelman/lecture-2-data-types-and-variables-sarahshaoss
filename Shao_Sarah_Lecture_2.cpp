@@ -28,10 +28,10 @@ int main ()
 
 
     //compare 2 character with each other
-    float floater = 9.9;
-    int integer = 4;
+    char letter1 = 'B' ;
+    char letter2 = 'A';
 
-    cout <<  floater < integer ;
+    cout <<  (letter1 < letter2) ;
 
 
     //Outputting data type
