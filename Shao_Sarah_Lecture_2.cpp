@@ -31,7 +31,7 @@ int main ()
     char letter1 = 'B' ;
     char letter2 = 'A';
 
-    cout <<  (letter1 < letter2) ;
+    cout << "Compare: " << (letter1 < letter2) << "\n"; // false is 0
 
 
     //Outputting data type
